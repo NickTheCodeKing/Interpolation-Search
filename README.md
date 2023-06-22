@@ -1,4 +1,4 @@
-# Interpolation-Search
+# Interpolation-Search-Analysis
 
 Synopsis:
 - A project researching/analyzing the Interpolation Search algorithm and constructing a presentation on findings
