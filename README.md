@@ -1,4 +1,4 @@
-# Interpolation-Search-Analysis
+# Interpolation-Search-Analysis #Coursework
 
 Synopsis:
 - A project researching/analyzing the Interpolation Search algorithm and constructing a presentation on findings
